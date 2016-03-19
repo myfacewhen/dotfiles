@@ -1,0 +1,33 @@
+# Lines configured by zsh-newuser-install
+HISTFILE=~/.histfile
+HISTSIZE=1000
+SAVEHIST=1000
+setopt autocd
+bindkey -e
+# End of lines configured by zsh-newuser-install
+# The following lines were added by compinstall
+zstyle :compinstall filename '/home/owari/.zshrc'
+
+autoload -Uz compinit promptinit colors && colors
+compinit
+# End of lines added by compinstall
+
+# Personaliztion
+export WINEDEBUG=-all
+alias ls='ls --color=auto'
+alias lg='ls | grep'
+alias lgh='ls -a | grep' # grep hidden files
+alias mkexec='chmod +x'
+alias grep='grep --color=auto'
+alias egrep='egrep --color=auto'
+alias fgrep='fgrep --color=auto'
+alias steam-wine='wine ~/.wine/drive_c/Program\ Files\ \(x86\)/Steam/Steam.exe >/dev/null 2>&1 &'
+alias byond-wine='WINEARCH=win32 WINEPREFIX=~/.local/share/wineprefixes/BYOND wine "C:\Program Files\BYOND\bin\byond.exe" >/dev/null 2>&1 &'
+xset r rate 275 30
+# DEFAULT SOFTWARE
+BROWSER=/usr/bin/icecat
+EDITOR=/usr/bin/nano
+
+# Prompt
+promptinit
+PROMPT="%{%S$fg[blue]%K{white} %~ $reset_color%f%s%} "

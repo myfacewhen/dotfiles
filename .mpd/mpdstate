@@ -1,0 +1,57 @@
+sw_volume: 100
+audio_device_state:1:whatever name you want
+state: pause
+current: 0
+time: 0.000000
+random: 0
+repeat: 0
+single: 0
+consume: 0
+crossfade: 0
+mixrampdb: 0.000000
+mixrampdelay: -1.000000
+playlist_begin
+0:Pertubator/I Am The Night/Perturbator - I Am The Night -Remaster- - 02 Retrogenesis.flac
+1:Pertubator/I Am The Night/Perturbator - I Am The Night -Remaster- - 01 The New Black.flac
+2:Pertubator/I Am The Night/Perturbator - I Am The Night -Remaster- - 03 Eclipse.flac
+3:Pertubator/I Am The Night/Perturbator - I Am The Night -Remaster- - 04 I Am The Night.flac
+4:Pertubator/I Am The Night/Perturbator - I Am The Night -Remaster- - 05 Naked Tongues (feat. Memory Ghost's Isabella Goloversic).flac
+5:Pertubator/I Am The Night/Perturbator - I Am The Night -Remaster- - 06 Nexus Six - Interlude.flac
+6:Pertubator/I Am The Night/Perturbator - I Am The Night -Remaster- - 07 Technoir (feat. Noir Deco).flac
+7:Pertubator/I Am The Night/Perturbator - I Am The Night -Remaster- - 08 Desire (feat. Greta Link).flac
+8:Pertubator/I Am The Night/Perturbator - I Am The Night -Remaster- - 09 Deviance (feat. Arcade High).flac
+9:Pertubator/I Am The Night/Perturbator - I Am The Night -Remaster- - 10 Raining Steel.flac
+10:Pertubator/I Am The Night/Perturbator - I Am The Night -Remaster- - 11 Ghost Dancers Slay Together.flac
+11:Pertubator/I Am The Night/Perturbator - I Am The Night -Remaster- - 12 The Price of Failure.flac
+12:Pertubator/I Am The Night/Perturbator & Dynatron - I Am The Night -Remaster- - 13 Volcanic Machinery -Bonus Track-.flac
+13:Pertubator/I Am The Night/Perturbator - I Am The Night -Remaster- - 14 Lilith -Bonus Track-.flac
+14:Pertubator/I Am The Night/Perturbator - I Am The Night -Remaster- - 15 Girl In A Black Dress -Bonus Track-.flac
+15:Pertubator/Night Driving Avenger/Perturbator - Night Driving Avenger - EP -Remaster- - 01 Grim Heart.flac
+16:Pertubator/Night Driving Avenger/Perturbator - Night Driving Avenger - EP -Remaster- - 02 Electric Dreams.flac
+17:Pertubator/Night Driving Avenger/Perturbator - Night Driving Avenger - EP -Remaster- - 03 Night Driving Avenger.flac
+18:Pertubator/Night Driving Avenger/Perturbator - Night Driving Avenger - EP -Remaster- - 04 Miami Sunsets.flac
+19:Pertubator/Night Driving Avenger/Perturbator - Night Driving Avenger - EP -Remaster- - 05 I Ran to the Arcade -Bonus Track-.flac
+20:Pertubator/Nocturne City/Perturbator - Nocturne City - EP - 01 Intro (The Journey).flac
+21:Pertubator/Nocturne City/Perturbator - Nocturne City - EP - 02 Welcome to Nocturne City.flac
+22:Pertubator/Nocturne City/Perturbator - Nocturne City - EP - 03 Fantasy (feat. Dream Koala).flac
+23:Pertubator/Nocturne City/Perturbator - Nocturne City - EP - 04 Night Business.flac
+24:Pertubator/Nocturne City/Perturbator - Nocturne City - EP - 05 There Is No Love Highway.flac
+25:Pertubator/Nocturne City/Perturbator - Nocturne City - EP - 06 Vengeance (The Return Of The Night Driving Avenger) -Bonus Track-.flac
+26:Pertubator/Sexualizer/Perturbator - Sexualizer - EP - 01 Meet Jimmy (feat. Le Cassette).flac
+27:Pertubator/Sexualizer/Perturbator - Sexualizer - EP - 02 Sexualizer (feat. Flash Arnold).flac
+28:Pertubator/Sexualizer/Perturbator - Sexualizer - EP - 03 Angel Dust.flac
+29:Pertubator/Sexualizer/Perturbator - Sexualizer - EP - 04 Miami Disco.flac
+30:Pertubator/Sexualizer/Perturbator - Sexualizer - EP - 05 Perverted Precinct (feat. Tommy).flac
+31:Pertubator/TERROR 404/Perturbator - TERROR 404 -Remaster- - 01 Opening Credits.flac
+32:Pertubator/TERROR 404/Perturbator - TERROR 404 -Remaster- - 02 Terror 404.flac
+33:Pertubator/TERROR 404/Perturbator - TERROR 404 -Remaster- - 03 Savage Streets.flac
+34:Pertubator/TERROR 404/Perturbator - TERROR 404 -Remaster- - 04 Payback Pursuit.flac
+35:Pertubator/TERROR 404/Perturbator - TERROR 404 -Remaster- - 05 Mirage (feat. Lueur Verte).flac
+36:Pertubator/TERROR 404/Perturbator - TERROR 404 -Remaster- - 06 X-CaliBR8.flac
+37:Pertubator/TERROR 404/Perturbator - TERROR 404 -Remaster- - 07 Nightmare Interlude.flac
+38:Pertubator/TERROR 404/Perturbator - TERROR 404 -Remaster- - 08 Linnea Quigley Horror Workout.flac
+39:Pertubator/TERROR 404/Perturbator - TERROR 404 -Remaster- - 09 John Holmes VHS Nightclub.flac
+40:Pertubator/TERROR 404/Perturbator - TERROR 404 -Remaster- - 10 Shadow Force '84.flac
+41:Pertubator/TERROR 404/Perturbator - TERROR 404 -Remaster- - 11 The Darkest Alleys (Final Stage).flac
+42:Pertubator/TERROR 404/Perturbator - TERROR 404 -Remaster- - 12 End Theme.flac
+playlist_end
